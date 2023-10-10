@@ -1,0 +1,28 @@
+# custom
+*.env
+*.terraform*
+*.build*
+*.zip
+*.txt
+*.csv
+*.zip*
+.DS_Store
+Pipfile
+Pipfile.lock
+.idea
+node_modules
+__pycache__
+-
+.python-version
+Pipfile
+.vscode/settings.json
+helix
+*.pub
+
+# Compiled files
+*.tfstate
+*.tfstate.backup
+.terraform.tfstate.lock.info
+
+# Module directory
+.terraform/
