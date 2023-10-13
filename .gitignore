@@ -16,7 +16,7 @@ __pycache__
 .python-version
 Pipfile
 .vscode/settings.json
-helix
+/helix
 *.pub
 
 # Compiled files
