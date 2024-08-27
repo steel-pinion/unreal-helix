@@ -9,7 +9,7 @@ At some point, Unity3D bought Plastic SCM, and while the service is still excell
 I can never find where my code is on their site. Visiting `plasticscm.com` redirects me to the "unity devops" marketing page.
 This concerns me. I am concerned that we might someday need to migrate off this tool like we did for Unity3D's game engine side.
 
-Now that we are using Unreal Engine, we could take advantege of their tighter integration with perforce/helix.
+Now that we are using Unreal Engine, we could take advantage of their tighter integration with perforce/helix.
 By using aws reserved instances, we can spend about $3 a month for a centrally hosted version control server.
 
 
